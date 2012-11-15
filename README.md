@@ -16,9 +16,9 @@ Rbook
 
 支持三种访问协议：
 
-* HTTP协议: `https://github.com/gotgithub/helloworld.git` 。
-* Git协议: `git://github.com/gotgithub/helloworld.git` 。
-* SSH协议: `ssh://git@github.com/gotgithub/helloworld.git` 。
+* HTTP协议: `https://github.com/rrning/Rbook.git` 。
+* Git协议: `git://github.com/rrning/Rbook.git` 。
+* SSH协议: `ssh://git@github.com/rrning/Rbook.git` 。
 
 ## 克隆版本库
 
